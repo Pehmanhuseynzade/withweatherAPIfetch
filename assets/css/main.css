@@ -1,0 +1,18 @@
+.searching{
+     background-color: rgba(255, 127, 80, 0.366);
+     padding: 20px 30px;
+}
+.main-div{
+     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;}
+.image{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     margin: auto;
+}
+ul{
+     list-style: none;
+     justify-content: center;
+     align-items: center;
+     gap: 50px;
+}
